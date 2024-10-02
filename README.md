@@ -14,10 +14,14 @@ The goal of this project was to teach Greek mythology through an interactive Gam
 Programs used: Unity,Blender,Clip Studio Paint
 
 The game consists of a prologue which covers the Clash of the Titans and 4 otner Chapters covering the stories of:
-1)Prometheus and the Gift of Fire/ Pandora's box / Deucalion and Pyrrha
+
+1) Prometheus and the Gift of Fire/ Pandora's box / Deucalion and Pyrrha
+   
 2) The twelve labours of Hercules
-3)The labours of Theseus 
-4)The Argonaut Campaign
+   
+3) The labours of Theseus
+   
+4) The Argonaut Campaign
 
 The game consists of 103 Scenes and 16 minigames which can be categorized in 9 categories: puzzle, point and click , runner, Battle, shooter, potion making, information collection, throwing game, labyrinth.
 
